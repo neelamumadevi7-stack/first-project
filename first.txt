@@ -1,1 +1,3 @@
 hello worlddd! 
+take input from user
+add the values
